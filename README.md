@@ -2,8 +2,6 @@
 
 ## AI Engineer | Voice AI, RAG Systems, & Workflow Automation
 
-[Email](mailto:contact@example.com) | [LinkedIn](https://linkedin.com/in/muhammadfarooq) | [Portfolio](https://github.com/muhammadFarooq111)
-
 ### About Me
 
 I am an AI Engineer with 5+ years of software engineering experience, specializing in AI automation, voice AI, RAG systems, and AI-powered SaaS applications.
